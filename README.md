@@ -41,9 +41,9 @@
 ### 🌐 Connect With Me
 
 - 💼 [LinkedIn](https://linkedin.com/in/meet-patel-127b87309)
-- 🧠 [GitHub](https://github.com/your-username)
+- 🧠 [GitHub](https://github.com/Meet7773)
 - 🕶️ Alias: **D3sTr0**
-- 📫 Mail: `d3str0[at]pm.me`
+- 📫 Mail: `mp210954@gmail.com`
 
 ---
 
