@@ -1,12 +1,55 @@
-- 👋 Hi, I’m @Meet7773
-- 👀 I’m interested in Developing.
-- 🌱 I’m currently learning Full Stack JAVA Dev.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: ...
+<h1 align="center">Hey, I'm Meet Patel (aka D3sTr0) 👾</h1>
+<p align="center">
+  <em>Cybersecurity Explorer | Cloud Enthusiast | Tech Evangelist | Builder of Real-World Madness</em>
+</p>
 
-<!---
-Meet7773/Meet7773 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🧠 About Me
+
+- 🎓 Computer Engineering @ SCET, Gujarat | Cybersecurity Honors
+- 🔒 Event Manager @ **Cybersecurity Club SCET**
+- 🧑‍💻 Tech Team @ **The Hackers Meetup** (National-Level Cyber Club)
+- ☁️ Building a cloud storage + VPS startup on **OpenStack & Ceph**
+- 🐧 Linux Enthusiast | Kali + Ubuntu Warrior
+- 🧠 Passionate about: Hacking, CTFs, Cloud, Automation, Madness in Code
+
+---
+
+### ⚔️ My Arsenal
+
+- **Pentesting Tools**: `Amass`, `Subfinder`, `Nuclei`, `Nikto`, `Searchsploit`, `Dirsearch`, `Nmap`
+- **Languages**: `Python`, `C++`, `JavaScript`, `Bash`, `VBS`
+- **Cloud & Infra**: `OpenStack`, `Ceph`, `Proxmox`, `KVM`, `Docker`, `MicroStack`
+- **Cyber Tools Built**: 
+  - Terminal-based **Psychological Horror Game (Cyberpsychosis Simulator)**
+  - Malware Simulations (Wi-Fi extractor, train spawner 🛤️)
+  - Proxy Web Scraper + Validator
+- **DevOps in Progress**: Learning CI/CD, Ansible, GitHub Actions, Terraform
+
+---
+
+### 🧠 Projects & Madness
+
+- 🧠 **Cyberpsychosis Simulator** – Terminal-based horror experience with glitch effects, hallucinations, and CTF-like flags
+- ☁️ **Mini Cloud Demo** – Local cloud prototype (CephFS + OpenStack) on an old laptop
+- 🔎 **Auto Recon Shell** – Menu-driven tool that runs pentest scans & tools seamlessly
+- 🔐 **HackOps Framework** – Planned modular toolkit for OSINT, Scanning, Exploits & Reports
+
+---
+
+### 🌐 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/meet-patel-d3str0/)
+- 🧠 [GitHub](https://github.com/your-username)
+- 🕶️ Alias: **D3sTr0**
+- 📫 Mail: `d3str0[at]pm.me`
+
+---
+
+### 🚀 Fun Fact
+
+> I don’t just simulate madness—I build it into code.
+
+---
+
