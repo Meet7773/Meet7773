@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Meet Patel (aka D3sTr0) 👾</h1>
 <p align="center">
-  <em>Cybersecurity Explorer | Cloud Enthusiast | Tech Evangelist | Builder of Real-World Madness</em>
+  <em>Cybersecurity Explorer | Cloud Enthusiast | Tech Evangelist </em>
 </p>
 
 ---
@@ -9,8 +9,8 @@
 
 - 🎓 Computer Engineering @ SCET, Gujarat | Cybersecurity Honors
 - 🔒 Event Manager @ **Cybersecurity Club SCET**
-- 🧑‍💻 Tech Team @ **The Hackers Meetup** (National-Level Cyber Club)
-- ☁️ Building a cloud storage + VPS startup on **OpenStack & Ceph**
+- 🧑‍💻 Tech Team @ **The Hackers Meetup**
+- ☁️ Building a cloud storage + VPS on **OpenStack & Ceph**
 - 🐧 Linux Enthusiast | Kali + Ubuntu Warrior
 - 🧠 Passionate about: Hacking, CTFs, Cloud, Automation, Madness in Code
 
