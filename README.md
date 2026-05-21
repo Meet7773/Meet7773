@@ -8,11 +8,9 @@
 ### 🧠 About Me
 
 - 🎓 Computer Engineering @ SCET, Gujarat | Cybersecurity Honors
-- 🔒 Event Manager @ **Cybersecurity Club SCET**
-- 🧑‍💻 Tech Team @ **The Hackers Meetup**
-- ☁️ Building a cloud storage + VPS on **OpenStack & Ceph**
-- 🐧 Linux Enthusiast | Kali + Ubuntu Warrior
-- 🧠 Passionate about: Hacking, CTFs, Cloud, Automation, Madness in Code
+- ☁️ Built a cloud storage + VPS on **OpenStack & Ceph**
+- 🐧 Linux Enthusiast
+- 🧠 Passionate about: Hacking, CTFs, Cloud, Automation
 
 ---
 
@@ -25,7 +23,7 @@
   - Terminal-based **Psychological Horror Game (Cyberpsychosis Simulator)**
   - Malware Simulations (Wi-Fi extractor, train spawner 🛤️)
   - Proxy Web Scraper + Validator
-- **DevOps in Progress**: Learning CI/CD, Ansible, GitHub Actions, Terraform
+- **DevOps**: CI/CD, Ansible, GitHub Actions, Terraform, semgrep, trivy
 
 ---
 
